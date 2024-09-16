@@ -4,5 +4,6 @@
 É um site que segue a maioria das normas, a repetição é correto e o contraste bom, fazendo assim mais fácil de se procurar algo, porém o alinhamento dos produtos não é completamente consistente e parece apresentar espaçamentos diferentes nas linhas de produto
 Esse problema é facilmente corrigivel utilizando o espaçamento correto para os produtos
 ### Segundo site <a href="https://sewingtoolkits.com/"> site da SewingToolkits</a>
-o site apresenta problemas de alinhamento e contraste em um certo grau, embora sendo não tão cheio de produtos quanto o da Singer, é um site difícil de *olhar* e que pode acarretar dificuldades de navegação
+O header do site apresenta problemas de alinhamento e a descrição para a empresa há problemas de contraste no qual deixa difícil de ler o texto sobre a imagem, o segundo problema não afeta o uso do site mas o primeiro pode deixar um pouco confuso para encontrar o que se deseja.
+O primeiro problema pode ser corrigido por alinhando de forma correta ou refazendo o header, o segundo problema poderia ser corrigido por adicionando um background transparente para o texto ter contraste a imagem
 (incompleto)
