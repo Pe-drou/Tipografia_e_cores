@@ -1,4 +1,6 @@
-# Tipografia_e_cores
+# DESAFIO DE IDENTIFICAR TIPOGRAFIA E CORES
+
+Desafio de procurar sites identificando problemas com CSS a partir das normas de tipografia e cores
 
 ### Primeiro site: <a href="https://loja.singer.com.br/?utm_source=google_ads&utm_medium=search_singer&gad_source=1&gclid=CjwKCAjw3P-2BhAEEiwA3yPhwC8kupSy9Xn6pn3xkWfLkhKsB6DpQaMzMqdmo9hKUAyFgaSc0hnlNBoC7lwQAvD_BwE"> site da singer</a>
 <img src="https://github.com/Pe-drou/Tipografia_e_cores/blob/main/sing1.png" width="50%"><img src="https://github.com/Pe-drou/Tipografia_e_cores/blob/main/sing2.png" width="50%">
